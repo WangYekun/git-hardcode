@@ -1,8 +1,9 @@
 package com.github.hcsp.collection;
 
-import java.util.HashSet;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
+import java.util.HashSet;
 
 public class PersonTest {
     @Test
